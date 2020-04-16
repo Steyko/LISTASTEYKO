@@ -82,10 +82,10 @@ http://34.69.203.234/index.php?id=55&cal=5
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="" group-title="" tvg-name="Studio Universal" audio-track="spa",Studio Universal
 http://34.69.203.234/index.php?id=57&cal=5
 #EXTINF:-1 tvg-id="Syfy" tvg-logo="" group-title="" tvg-name="Syfy" audio-track="spa",SYFY
-http://34.69.203.234/index.php?id=59&cal=5
+http://34.69.203.234/index.php?id=59&cal=5	
 #EXTINF:-1 tvg-id="FX" tvg-logo="" group-title="" tvg-name="FX" audio-track="spa",FX 
 http://34.69.203.234/index.php?id=60&cal=5
-#EXTINF:-1 tvg-id="AE Mundo" tvg-logo="" group-title="ENTRETENIMIENTO" tvg-name="AE Mundo" audio-track="spa",A&E
+#EXTINF:-1 tvg-id="AE Mundo" tvg-logo="" group-title="ENTRETENIMIENTO" tvg-name="AE Mundo" audio-track="spa",AE
 http://34.69.203.234/index.php?id=62&cal=5
 #EXTINF:-1 tvg-id="AXN" tvg-logo="" group-title="" tvg-name="AXN" audio-track="spa",AXN
 http://34.69.203.234/index.php?id=64&cal=5
@@ -135,7 +135,7 @@ http://34.69.203.234/index.php?id=92&cal=5
 http://34.69.203.234/index.php?id=94&cal=5
 #EXTINF:-1 tvg-id="Discovery HD Theater" tvg-logo="" group-title="" tvg-name="Discovery HD Theater" audio-track="spa",DISCOVERY THEATER
 http://34.69.203.234/index.php?id=95&cal=5
-#EXTINF:-1 tvg-id="Discovery Home Healt" tvg-logo="" group-title="" tvg-name="Discovery Home Healt" audio-track="spa",Discovery Home & Health
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-logo="" group-title="" tvg-name="Discovery Home Health" audio-track="spa",Discovery Home & Health
 http://34.69.203.234/index.php?id=96&cal=5
 #EXTINF:-1 tvg-id="TLC" tvg-logo="" group-title="" tvg-name="TLC" audio-track="spa",TLC
 http://34.69.203.234/index.php?id=97&cal=5
@@ -197,7 +197,7 @@ http://34.69.203.234/index.php?id=135&cal=5
 http://34.69.203.234/index.php?id=136&cal=5
 #EXTINF:-1 tvg-id="Film&amp;Arts" tvg-logo="" group-title="" tvg-name="Film&amp;Arts" audio-track="spa",FILM&amp;ARTS
 http://34.69.203.234/index.php?id=137&cal=5
-#EXTINF:-1 tvg-id="FX Movies" tvg-logo="" group-title="" tvg-name="FX Movies" audio-track="spa",FMX
+#EXTINF:-1 tvg-id="CanalFXM" tvg-logo="" group-title="" tvg-name="CanalFXM" audio-track="spa",FMX
 http://34.69.203.234/index.php?id=138&cal=5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-name="" audio-track="spa",MORBIDO TV (NO HAY)
 http://34.69.203.234/index.php?id=140&cal=5
@@ -401,3 +401,9 @@ http://roedor.xyz/Sr_Regio/mc.php?c=122&f.m3u8
 http://roedor.xyz/Sr_Regio/mc.php?c=120&f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-name="" audio-track="spa",Mtv Live
 http://roedor.xyz/Sr_Regio/mc.php?c=133&f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-name="" audio-track="spa",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tvg-name="" audio-track="spa",TELEMUSICA
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MX: Mexico", MX: CANAL CAPITAL HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
